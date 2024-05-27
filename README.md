@@ -3,7 +3,7 @@
 Welcome to the Smart Intersection with Active Traffic Lights System project repository!
 
 ## Project Description
-This project aims to enhance traffic flow and reduce congestion at intersections using FPGA technology and ultrasonic sensors. By dynamically adjusting traffic light sequences based on real-time vehicle detection, this system minimizes unnecessary wait times and improves overall traffic efficiency.
+The Smart Intersection project was my term project for the course Introduction to Digital Circuit Design, EEE-102 at Bilkent University Department of Electrical and Electronics Engineering. This project aims to enhance traffic flow and reduce congestion at intersections using FPGA technology and ultrasonic sensors. By dynamically adjusting traffic light sequences based on real-time vehicle detection, this system minimizes unnecessary wait times and improves overall traffic efficiency.
 
 ## YouTube Demo
 Check out the project in action on [YouTube](https://youtu.be/GJ8IfE_5N2o).
