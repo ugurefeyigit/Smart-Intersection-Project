@@ -21,6 +21,3 @@ For any inquiries or further information, please contact [Your Name].
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-
-Feel free to adjust the content as needed!
