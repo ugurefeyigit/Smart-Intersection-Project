@@ -9,8 +9,7 @@ The Smart Intersection project was my term project for the course Introduction t
 Check out the project in action on [YouTube](https://youtu.be/GJ8IfE_5N2o).
 
 ## Files and Directories
-- **VHDL Files**: The core VHDL files for the project.
-- **Constraints Files**: Constraint files used for the FPGA implementation.
+- **VHDL Files**: The core VHDL files and constraints file used for the FPGA implementation for the project.
 - **Project Report**: Detailed documentation of the project including methodology, system design, and results.
 
 ## License
